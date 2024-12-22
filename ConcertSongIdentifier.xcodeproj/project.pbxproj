@@ -6,10 +6,6 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		1C1AFEC32D1747FB008E135D /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C1AFEC22D1747FB008E135D /* ContentViewModel.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXContainerItemProxy section */
 		1CE4D13B2D173392009D5098 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -28,7 +24,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1C1AFEC22D1747FB008E135D /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
 		1CE4D12A2D17338C009D5098 /* ConcertSongIdentifier.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ConcertSongIdentifier.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CE4D13A2D173392009D5098 /* ConcertSongIdentifierTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConcertSongIdentifierTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CE4D1442D173392009D5098 /* ConcertSongIdentifierUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ConcertSongIdentifierUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -93,7 +88,6 @@
 		1CE4D1212D17338C009D5098 = {
 			isa = PBXGroup;
 			children = (
-				1C1AFEC22D1747FB008E135D /* ContentViewModel.swift */,
 				1CE4D12C2D17338C009D5098 /* ConcertSongIdentifier */,
 				1CE4D13D2D173392009D5098 /* ConcertSongIdentifierTests */,
 				1CE4D1472D173392009D5098 /* ConcertSongIdentifierUITests */,
@@ -255,7 +249,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1C1AFEC32D1747FB008E135D /* ContentViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
